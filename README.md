@@ -37,7 +37,7 @@ You’ll need **Git** and **Node.js** installed to run this project locally.
 ### Clone and Run
 
 ```bash
-git clone https://github.com/apoorvpandey-dev/portfolio.git
+git clone https://github.com/apoorvpandey-dev/portfolio.git](https://github.com/Shih-vaa/Portfolio-website/edit/main/README.md
 cd portfolio
 npm install
 npm run dev
